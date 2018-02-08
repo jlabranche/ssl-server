@@ -1,0 +1,398 @@
+[ACCOUNT]
+character-username = rng god
+character-password = 50b222bf0e129ebcd918a557587f9219
+
+[CHARACTER]
+character-rights = 0
+character-rights-secondary = 0
+character-mac-address = A0-D3-C1-14-A7-77
+character-ip-address = 24.245.5.164
+revert-option = 
+mode = REGULAR
+tutorial-stage = END
+character-height = 0
+character-hp = 70
+play-time = 9749
+last-clan = Help
+character-specRestore = 0
+character-posx = 1657
+character-posy = 3674
+bank-pin = 
+bank-pin-cancellation = false
+bank-pin-unlock-delay = 0
+placeholders = false
+newStarter = false
+bank-pin-cancellation-delay = -1
+dailyTaskDate = 0
+totalDailyDone = 0
+currentTask = DARK_BESTS
+completedDailyTask = false
+playerChoice = PVM
+dailyEnabled = true
+show-drop-warning = false
+hourly-box-toggle = true
+fractured-crystal-toggle = true
+accept-aid = false
+did-you-know = true
+lootvalue = 0
+raidPoints = 0
+experience-counter = 6443148
+character-title-updated = 
+removed-slayer-tasks = 			
+last-incentive = 0
+rfd-round = 0
+run-energy = 93
+character-historyItems = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+character-historyItemsN = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+character-historyPrice = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+lastLoginDate = 0
+has-npc = false
+summonId = 0
+startPack = true
+crystalDrop = false
+setPin = false
+slayer-helmet = false
+slayer-imbued-helmet = false
+bigger-boss-tasks = false
+cerberus-route = false
+superior-slayer = false
+slayer-tasks-completed = 0
+claimedReward = false
+dragonfire-shield-charge = 0
+rfd-gloves = 0
+wave-id = 0
+wave-type = 0
+wave-info = 0	0	0
+master-clue-reqs = 0	0	0	0
+counters = 1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+max-cape = false	false	false	false	false
+zulrah-best-time = 0
+toxic-staff = 0
+toxic-pipe-ammo = 0
+toxic-pipe-amount = 0
+toxic-pipe-charge = 0
+serpentine-helm = 0
+trident-of-the-seas = 0
+trident-of-the-swamp = 0
+arclight-charge = 0
+slayerPoints = 0
+crystal-bow-shots = 0
+skull-timer = -1
+magic-book = 0
+ahrim = false
+dharok = false
+guthan = false
+karil = false
+torag = false
+verac = false
+barrows-final-brother = Dharok
+barrows-monsters-killcount = 0
+barrows-completed = false
+special-amount = 5.0
+prayer-amount = 0.44881769641495206
+KC =0
+DC =0
+total-hunter-kills = 0
+total-rogue-kills = 0
+target-time-delay = 0
+bh-penalties = 0
+bh-bounties = 0
+statistics-visible = true
+spell-accessible = false
+zerkAmount = 
+pkp = 0
+donP =0
+donA =0
+prestige-points = 0
+votePoints = 0
+bloodPoints = 0
+achievement-points = 0
+achievement-items = -1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+xpLock = false
+teleblock-length = 0
+VarrockClaimedDiaries = 
+ArdougneClaimedDiaries = 
+DesertClaimedDiaries = 
+FaladorClaimedDiaries = 
+FremennikClaimedDiaries = 
+KandarinClaimedDiaries = 
+KaramjaClaimedDiaries = 
+LumbridgeClaimedDiaries = 
+MorytaniaClaimedDiaries = 
+WesternClaimedDiaries = 
+WildernessClaimedDiaries = 
+diaries = TEA_STALL,MORYTANIA_SWAMP
+partialDiaries = KILL_ROCK_CRAB:35,KILL_ARMADYL:7,KILL_GREEN_DRAGON:11
+pc-points = 0
+killStreak = 0
+bonus-end = 0
+jail-end = 0
+mute-end = 0
+marketmute-end = 0
+last-yell = 0
+splitChat = false
+slayer-master = 0
+consecutive-tasks = 0
+mage-arena-points = 0
+shayzien-assault-points = 0
+autoRet = 1
+flagged = false
+keepTitle = false
+killTitle = false
+wave = 0
+gwkc = 0
+fightMode = 2
+privatechat = 0
+void = 0	0	0	0	0
+quickprayer = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	
+pouch-rune = 0	0	0
+pouch-pure = 0	0	0
+crabsKilled = 0
+farming-poison-berry = 0
+herb-patch 0 = 0	0	0	0	0
+herb-patch 1 = 0	0	0	0	0
+herb-patch 2 = 0	0	0	0	0
+herb-patch 3 = 0	0	0	0	0
+herb-patch 4 = 0	0	0	0	0
+herb-patch 5 = 0	0	0	0	0
+herb-patch 6 = 0	0	0	0	0
+herb-patch 7 = 0	0	0	0	0
+compostBin = 0
+halloweenOrderGiven = 0	0	0	0	0	0	0	0	0	0
+halloweenOrderChosen = 0	0	0	0	0	0	0	0	0	0
+halloweenOrderNumber = 0
+district-levels = 0	0	0	0	0	0	0	0
+inDistrict = false
+safeBoxSlots = 15
+lost-items = 
+lost-items-cerberus = 
+lost-items-skotizo = 
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	10499	1	
+character-equip = 2	1731	1	
+character-equip = 3	861	1	
+character-equip = 4	2503	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	1097	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	12598	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	892	420	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	60	284000	false	0
+character-skill = 1	40	38500	false	0
+character-skill = 2	55	168500	false	0
+character-skill = 3	64	1508683	false	0
+character-skill = 4	87	4046750	false	0
+character-skill = 5	28	337855	false	0
+character-skill = 6	1	0	false	0
+character-skill = 7	1	0	false	0
+character-skill = 8	1	0	false	0
+character-skill = 9	1	0	false	0
+character-skill = 10	1	0	false	0
+character-skill = 11	1	0	false	0
+character-skill = 12	1	0	false	0
+character-skill = 13	1	0	false	0
+character-skill = 14	1	0	false	0
+character-skill = 15	1	0	false	0
+character-skill = 16	1	0	false	0
+character-skill = 17	44	60160	false	0
+character-skill = 18	1	0	false	0
+character-skill = 19	1	0	false	0
+character-skill = 20	1	0	false	0
+character-skill = 21	1	0	false	0
+character-skill = 22	1	0	false	0
+character-skill = 23	1	0	false	0
+character-skill = 24	1	0	false	0
+
+[ITEMS]
+character-item = 0	315	689
+character-item = 1	230	1
+character-item = 2	170	1
+character-item = 3	883	23
+character-item = 4	6647	13
+character-item = 5	1302	1
+character-item = 6	1632	1
+character-item = 7	9145	63
+character-item = 8	9186	1
+character-item = 9	996	1626054
+character-item = 10	1134	1
+character-item = 11	2504	1
+character-item = 12	2504	1
+character-item = 13	890	1
+character-item = 14	4132	1
+character-item = 16	374	1
+character-item = 19	374	1
+character-item = 20	374	1
+character-item = 21	374	1
+character-item = 22	374	1
+character-item = 23	374	1
+character-item = 24	374	1
+character-item = 25	374	1
+character-item = 26	374	1
+character-item = 27	374	1
+
+[RECHARGEITEMS]
+item = 	0	3	2018-01-30 14:08:59
+item = 	13120	2	2018-01-30 14:08:59
+item = 	1	3	2018-01-30 14:08:59
+item = 	2	150	2018-01-30 14:08:59
+item = 	13125	2	2018-01-30 14:08:59
+item = 	13126	3	2018-01-30 14:08:59
+item = 	13127	4	2018-01-30 14:08:59
+item = 	13128	3	2018-01-30 14:08:59
+item = 	13143	1	2018-01-30 14:08:59
+item = 	13111	5	2018-01-30 14:08:59
+item = 	13144	1	2018-01-30 14:08:59
+item = 	13117	1	2018-01-30 14:08:59
+item = 	13118	1	2018-01-30 14:08:59
+item = 	13119	1	2018-01-30 14:08:59
+
+[BANK]
+bank-tab = 0	1322	1
+bank-tab = 0	842	1
+bank-tab = 0	885	25
+bank-tab = 0	557	100
+bank-tab = 0	559	227
+bank-tab = 0	1266	1
+bank-tab = 0	1352	1
+bank-tab = 0	591	1
+bank-tab = 0	947	1
+bank-tab = 0	2348	1
+bank-tab = 0	9706	1
+bank-tab = 0	1754	6
+bank-tab = 0	1330	1
+bank-tab = 0	208	1
+bank-tab = 0	6647	13
+bank-tab = 0	1368	1
+bank-tab = 0	869	2
+bank-tab = 0	562	44
+bank-tab = 0	558	112
+bank-tab = 0	366	1
+bank-tab = 0	3836	1
+bank-tab = 0	870	28
+bank-tab = 0	19680	1
+bank-tab = 0	3831	1
+bank-tab = 0	8852	1
+bank-tab = 0	996	175422
+bank-tab = 0	5699	1
+bank-tab = 0	2606	1
+bank-tab = 0	1124	1
+bank-tab = 0	1726	1
+bank-tab = 0	374	30
+bank-tab = 0	170	3
+bank-tab = 0	1334	1
+
+
+[LOOTBAG]
+
+[RUNEPOUCH]
+
+[HERBSACK]
+
+[GEMBAG]
+
+[SAFEBOX]
+
+[FRIENDS]
+
+
+[HOLIDAY-EVENTS]
+
+[DEGRADEABLES]
+claim-state = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+
+
+[ACHIEVEMENTS-TIER-1]
+crab_killer = 35	false
+dragon_slayer_i = 11	false
+pvmer_i = 93	false
+boss_hunter_i = 7	false
+theiving_task_i = 118	false
+ckey_task = 1	false
+cluescroll_task = 3	false
+
+
+[ACHIEVEMENTS-TIER-2]
+dragon_hunter_ii = 11	false
+pvmer_ii = 93	false
+boss_hunter_ii = 7	false
+intermediate_thief = 118	false
+chest_looter = 1	false
+clue_scroller = 3	false
+
+
+[ACHIEVEMENTS-TIER-3]
+expert_dragon_slayer = 11	false
+slaughterer = 93	false
+boss_slaughterer = 7	false
+expert_thief = 118	false
+dig_for_gold = 1	false
+clue_champ = 3	false
+
+[IGNORES]
+
+[PRESETS]
+Names = New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	New slot	
+Inventory#0 = 
+Equipment#0 = 
+Inventory#1 = 
+Equipment#1 = 
+Inventory#2 = 
+Equipment#2 = 
+Inventory#3 = 
+Equipment#3 = 
+Inventory#4 = 
+Equipment#4 = 
+Inventory#5 = 
+Equipment#5 = 
+Inventory#6 = 
+Equipment#6 = 
+Inventory#7 = 
+Equipment#7 = 
+Inventory#8 = 
+Equipment#8 = 
+Inventory#9 = 
+Equipment#9 = 
+
+[KILLSTREAKS]
+
+[TITLES]
+
+[NPC-TRACKER]
+flight kilisa = 8
+spiritual warrior = 5
+rock crab = 35
+aviansie = 5
+kree arra = 7
+kourend officer = 1
+cyclops = 13
+green dragon = 11
+magic axe = 1
+flockleader geerin = 3
+spiritual ranger = 3
+kourend guard = 1
+
+[EOF]
+
