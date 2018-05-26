@@ -326,5 +326,11 @@ Equipment#9 =
 [NPC-TRACKER]
 rock crab = 11
 
-[EOF]
 
+
+[NPC-TRACKER]
+
+
+[NPC-TRACKER]
+
+[EOF]

@@ -351,5 +351,11 @@ Equipment#9 =
 [NPC-TRACKER]
 cow = 11
 
-[EOF]
 
+
+[NPC-TRACKER]
+
+
+[NPC-TRACKER]
+
+[EOF]

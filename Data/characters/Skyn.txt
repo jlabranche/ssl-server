@@ -416,5 +416,11 @@ rock crab = 10
 ice warrior = 1
 reanimated demon spawn = 1
 
-[EOF]
 
+
+[NPC-TRACKER]
+
+
+[NPC-TRACKER]
+
+[EOF]

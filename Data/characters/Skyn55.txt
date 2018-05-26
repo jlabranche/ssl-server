@@ -334,5 +334,11 @@ ghost = 5
 rock crab = 5
 green dragon = 1
 
-[EOF]
 
+
+[NPC-TRACKER]
+
+
+[NPC-TRACKER]
+
+[EOF]

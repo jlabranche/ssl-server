@@ -394,5 +394,11 @@ flockleader geerin = 3
 spiritual ranger = 3
 kourend guard = 1
 
-[EOF]
 
+
+[NPC-TRACKER]
+
+
+[NPC-TRACKER]
+
+[EOF]

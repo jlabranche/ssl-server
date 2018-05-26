@@ -152,6 +152,7 @@ public class Player extends Entity {
 	
 	
 	public int item, uneditItem, quantity, price, pageId = 1, searchId;
+    public int cmdLine = 0;
 	public String lookup;
 	public List<Integer> saleResults;
 	public ArrayList<Integer> saleItems = new ArrayList<Integer>();
@@ -606,6 +607,9 @@ public Inferno inferno = new Inferno(this, Boundary.INFERNO, 0);
 			outStream.createFrameVarSize(253);
 			outStream.writeString(s);
 			outStream.endFrameVarSize();
+		} else {
+            //useful for unit tests
+            System.out.println(s);
 		}
 	}
 
@@ -698,7 +702,7 @@ public Inferno inferno = new Inferno(this, Boundary.INFERNO, 0);
 	}
 
 	public void highscores() {
-		getPA().sendFrame126("SkyScapeLive - Top PKers Online", 6399); // Title
+		getPA().sendFrame126(Server.playerHandler.serverName + " - Top PKers Online", 6399); // Title
 		for (int i = 0; i < 10; i++) {
 			if (ranks[i] > 0) {
 				getPA().sendFrame126("Rank " + (i + 1) + ": " + rankPpl[i] + " - Kills: " + ranks[i] + "", 6402 + i);
@@ -809,16 +813,19 @@ public Inferno inferno = new Inferno(this, Boundary.INFERNO, 0);
 
 	public void sendMessage(String s) {
 		// synchronized (this) {
-		if (getOutStream() != null) {
+		if (cmdLine == 0 && getOutStream() != null) {
 			outStream.createFrameVarSize(253);
 			outStream.writeString(s);
 			outStream.endFrameVarSize();
-		}
+		} else {
+            //useful for unit tests
+            System.out.println(s);
+        }
 	}
 
 	public void setSidebarInterface(int menuId, int form) {
 		// synchronized (this) {
-		if (getOutStream() != null) {
+		if (cmdLine == 0 && getOutStream() != null) {
 			outStream.createFrame(71);
 			outStream.writeWord(form);
 			outStream.writeByteA(menuId);
@@ -953,7 +960,7 @@ public Inferno inferno = new Inferno(this, Boundary.INFERNO, 0);
 			 * Welcome messages
 			 */
 			String nameIdentifier = rights.getPrimary().getValue() > 0 ? "<img=" + (rights.getPrimary().getValue() - 1) + ">" : "";
-			sendMessage("@cr10@<trans=170>Welcome to Sky Scape Live</trans>");
+			sendMessage("@cr10@<trans=170>Welcome to " + Server.playerHandler.serverName + "</trans>");
 			sendMessage("@cr10@<trans=170>Apart of the ScapeGuild Community</trans>");
 			sendMessage("@cr10@<trans=170>Website: www.scapeguild.com ");
 			/*if (Config.DOUBLE_DROPS && Config.DOUBLE_VOTE_INCENTIVES)

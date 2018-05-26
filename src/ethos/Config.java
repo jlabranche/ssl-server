@@ -3,6 +3,9 @@ package ethos;
 public class Config {
 	
 	public static int PLAYERMODIFIER = 0;
+
+    public static String testUser = "Test";
+    public static String testPass = "9f8e64a9326593605f908f718680b304";
 	
 	//Make sure this matches client version
 	public static final int CLIENT_VERSION = 2;

@@ -263,7 +263,7 @@ public class Barrows {
 		setCompleted(true);
 		RewardList rewardList = new RewardList();
 		setMonstersKilled(25);
-		if (Ahrim.isPresent()&&Dharok.isPresent()&&Guthan.isPresent()&&Karil.isPresent()&&Torag.isPresent()&&Verac.isPresent()){
+		if (Ahrim.isPresent() && Dharok.isPresent() && Guthan.isPresent() && Karil.isPresent() && Torag.isPresent() && Verac.isPresent()){
 			Ahrim.get().handleDeath();
 			Dharok.get().handleDeath();
 			Guthan.get().handleDeath();

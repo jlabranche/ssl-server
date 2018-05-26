@@ -311,5 +311,11 @@ Equipment#9 =
 [NPC-TRACKER]
 chicken = 1
 
-[EOF]
 
+
+[NPC-TRACKER]
+
+
+[NPC-TRACKER]
+
+[EOF]

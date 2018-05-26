@@ -316,5 +316,11 @@ Equipment#9 =
 
 [NPC-TRACKER]
 
-[EOF]
 
+
+[NPC-TRACKER]
+
+
+[NPC-TRACKER]
+
+[EOF]

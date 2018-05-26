@@ -19,6 +19,8 @@ import ethos.util.Stream;
 
 public class PlayerHandler {
 
+    public  static final String serverName = "SkyScapeLive";
+
 	public static Object lock = new Object();
 	public static Player players[] = new Player[Config.MAX_PLAYERS];
 	public static String messageToAll = "";
