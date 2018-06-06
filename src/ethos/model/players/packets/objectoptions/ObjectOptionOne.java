@@ -181,6 +181,14 @@ public class ObjectOptionOne {
 			}
 			break;
 			
+		case 1535:
+			if (c.getX() == 2964 & c.getY() == 3206) {
+				c.getPA().movePlayer(2965, 3206, 0);
+			}
+			if (c.getX() == 2965 & c.getY() == 3206) {
+				c.getPA().movePlayer(2964, 3206, 0);
+			}
+			break;
 			
 		case 29150:
 			int spellBook = c.playerMagicBook == 0 ? 1 : (c.playerMagicBook == 1 ? 2 : 0);

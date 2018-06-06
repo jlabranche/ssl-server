@@ -1,2 +1,4 @@
-Data/characters
+/Data/characters
+/Data/logs/*
 nohup.out
+.ftpquota
